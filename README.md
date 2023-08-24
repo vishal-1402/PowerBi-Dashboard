@@ -1,2 +1,2 @@
 # PowerBi-Dashboard
-Created Interactive Dashboard to track and analyise online sales data
+Created Interactive Dashboard to track and analyze online sales data
